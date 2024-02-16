@@ -1,1 +1,1 @@
-# Implementing-LSTM-for-Human-Activity-Recognition-using-Smartphone-Accelerometer-data
+# LSTM-for-Human-Activity-Recognition-using-Smartphone-Accelerometer-data
