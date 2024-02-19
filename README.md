@@ -1,4 +1,4 @@
-# LSTM-for-Human-Activity-Recognition-using-Smartphone-Accelerometer-data
+# Human-Activity-Recognition
 
 Human Activity Recognition using Smartphone Accelerometer Data with LSTM
 This project aims to implement a Human Activity Recognition (HAR) system using raw accelerometer signal data from smartphones. The dataset used in this project is sourced from the WISDM (Wireless Sensor Data Mining) Lab at Fordham University, NY. The dataset consists of tri-axial accelerometer readings from smartphones, capturing acceleration in all three spatial dimensions.
